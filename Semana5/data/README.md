@@ -2,6 +2,6 @@
 
 https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 
-Los archivos necesarios son: "combined_data_1.txt", "movie_titles.csv"
+- Los archivos necesarios son: "combined_data_1.txt", "movie_titles.csv"
 
-Como archivos de interes tambien pueden ser: "combined_data_2.txt", "combined_data_3.txt", "combined_data_4.txt"
+- Como archivos de interes tambien pueden ser: "combined_data_2.txt", "combined_data_3.txt", "combined_data_4.txt"
